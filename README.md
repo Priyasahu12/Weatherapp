@@ -31,9 +31,3 @@ Click the search button
 View real-time weather info for that location
 
 
-Future Improvements
-Add weather icons and background changes based on weather
-
-Show 5-day forecast
-
-Improve responsiveness and mobile support
