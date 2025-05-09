@@ -2,7 +2,7 @@
 Overview
 A simple weather application built with JavaScript that fetches and displays real-time weather data using the OpenWeatherMap API.
 
-Features
+Features :
 Get current temperature, humidity, and weather conditions by city name
 
 Error handling for invalid inputs or network issues
